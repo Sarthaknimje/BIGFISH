@@ -55,7 +55,7 @@ import AutoFixHighIcon from '@mui/icons-material/AutoFixHigh';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import AiAnalysisCard from '@/components/AiAnalysisCard';
-import { aiService } from '@/services/aiService';
+import {aiService} from "@/services/aiService";
 import { Navbar } from "@/components";
 
 // Register Chart.js components
